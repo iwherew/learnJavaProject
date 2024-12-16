@@ -6,3 +6,7 @@ sky:
     database: sky_take_out
     username: root
     password: 1234
+  alioss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    region: cn-beijing
+    bucketName: web-amadeus
