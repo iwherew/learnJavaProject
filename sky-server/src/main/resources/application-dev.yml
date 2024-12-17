@@ -10,3 +10,8 @@ sky:
     endpoint: https://oss-cn-beijing.aliyuncs.com
     region: cn-beijing
     bucketName: web-amadeus
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 0
