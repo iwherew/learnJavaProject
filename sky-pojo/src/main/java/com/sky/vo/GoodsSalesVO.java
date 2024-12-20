@@ -1,4 +1,4 @@
-package com.sky.dto;
+package com.sky.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -11,7 +11,7 @@ import java.io.Serializable;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class GoodsSalesDTO implements Serializable {
+public class GoodsSalesVO implements Serializable {
     //商品名称
     private String name;
 
